@@ -1,4 +1,4 @@
-# Hi, I'm Sime Delonney Delonney👋🔐
+# Hi, I'm Sime Delonney Njeba👋🔐
 
 **Cybersecurity Analyst | DevSecOps & Security Automation | CEH v13**
 
