@@ -12,7 +12,7 @@
 
 ---
 
-I build and document professional security engagements end to end —
+I build and document professional security engagements end to end 
 from initial attack execution through detection, forensic investigation,
 and production-ready remediation. Everything on this profile is real,
 tested, and documented to professional engagement standard.
